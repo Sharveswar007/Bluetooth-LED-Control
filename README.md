@@ -1,4 +1,4 @@
-Bluetooth LED Control using Arduino UNO & HC-05
+Bluetooth LED Control using Arduino UNO & HC-05 
 📌 Overview
 This project allows you to control an LED using an Android app via Bluetooth. The Arduino UNO communicates with the HC-05 Bluetooth module, which receives commands from the app to turn the LED ON or OFF.
 
